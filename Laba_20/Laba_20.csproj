@@ -63,6 +63,7 @@
       <DependentUpon>App.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="FileHelpClass.cs" />
     <Compile Include="MainWindow.xaml.cs">
       <DependentUpon>MainWindow.xaml</DependentUpon>
       <SubType>Code</SubType>
@@ -96,6 +97,13 @@
   </ItemGroup>
   <ItemGroup>
     <Resource Include="skull.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="redo.png" />
+    <Resource Include="undo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="cross.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

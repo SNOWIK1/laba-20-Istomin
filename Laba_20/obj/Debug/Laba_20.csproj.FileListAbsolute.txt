@@ -30,3 +30,19 @@ C:\Users\dimai\OneDrive\Рабочий стол\laba-20-Istomin-master\Laba_20\o
 C:\Users\dimai\OneDrive\Рабочий стол\laba-20-Istomin-master\Laba_20\obj\Debug\Laba_20.csproj.CoreCompileInputs.cache
 C:\Users\dimai\OneDrive\Рабочий стол\laba-20-Istomin-master\Laba_20\obj\Debug\Laba_20.exe
 C:\Users\dimai\OneDrive\Рабочий стол\laba-20-Istomin-master\Laba_20\obj\Debug\Laba_20.pdb
+C:\Users\user.COMP-02.000\Source\Repos\laba-20-Istomin\Laba_20\bin\Debug\Laba_20.exe.config
+C:\Users\user.COMP-02.000\Source\Repos\laba-20-Istomin\Laba_20\bin\Debug\Laba_20.exe
+C:\Users\user.COMP-02.000\Source\Repos\laba-20-Istomin\Laba_20\bin\Debug\Laba_20.pdb
+C:\Users\user.COMP-02.000\Source\Repos\laba-20-Istomin\Laba_20\obj\Debug\Laba_20.csproj.AssemblyReference.cache
+C:\Users\user.COMP-02.000\Source\Repos\laba-20-Istomin\Laba_20\obj\Debug\Laba_20.csproj.SuggestedBindingRedirects.cache
+C:\Users\user.COMP-02.000\Source\Repos\laba-20-Istomin\Laba_20\obj\Debug\MainWindow.g.cs
+C:\Users\user.COMP-02.000\Source\Repos\laba-20-Istomin\Laba_20\obj\Debug\App.g.cs
+C:\Users\user.COMP-02.000\Source\Repos\laba-20-Istomin\Laba_20\obj\Debug\Laba_20_MarkupCompile.cache
+C:\Users\user.COMP-02.000\Source\Repos\laba-20-Istomin\Laba_20\obj\Debug\Laba_20_MarkupCompile.lref
+C:\Users\user.COMP-02.000\Source\Repos\laba-20-Istomin\Laba_20\obj\Debug\MainWindow.baml
+C:\Users\user.COMP-02.000\Source\Repos\laba-20-Istomin\Laba_20\obj\Debug\Laba_20.g.resources
+C:\Users\user.COMP-02.000\Source\Repos\laba-20-Istomin\Laba_20\obj\Debug\Laba_20.Properties.Resources.resources
+C:\Users\user.COMP-02.000\Source\Repos\laba-20-Istomin\Laba_20\obj\Debug\Laba_20.csproj.GenerateResource.cache
+C:\Users\user.COMP-02.000\Source\Repos\laba-20-Istomin\Laba_20\obj\Debug\Laba_20.csproj.CoreCompileInputs.cache
+C:\Users\user.COMP-02.000\Source\Repos\laba-20-Istomin\Laba_20\obj\Debug\Laba_20.exe
+C:\Users\user.COMP-02.000\Source\Repos\laba-20-Istomin\Laba_20\obj\Debug\Laba_20.pdb
